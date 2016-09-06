@@ -23,7 +23,7 @@ $b = 3;
 $a - $b = 2 //Subtraction of two variables.
 $a + $b = 8 //Addition of two variables.
 $a * $b = 15 //Multiplication of two variables.
- 
+
 */
 
 ?>
