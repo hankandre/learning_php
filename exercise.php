@@ -23,6 +23,7 @@
   } elseif($day == 6) {
     echo $exercise6;
   } else {
+    echo 'Saturday';
     echo $exercise7;
   }
   //display the corresponding exercise string
